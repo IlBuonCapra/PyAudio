@@ -19,8 +19,7 @@ possible_commands = {
     "data" : "Oggi è {DATE}",
     "ora" : "Sono le {HOUR}",
     "chiami" : "Mi chiamo {NAME}",
-    "grazie" : "Figurati!",
-    "porcodio" : "Diocane!"
+    "grazie" : "Figurati!"
 }
 
 def make_action(command, possible_commands=possible_commands):
